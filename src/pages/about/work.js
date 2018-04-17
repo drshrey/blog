@@ -3,20 +3,20 @@ import Link from 'gatsby-link'
 
 const AboutWorkPage = () => (
   <div className="Root">
-    <h2>Present</h2>
+    <h3>Present</h3>
     <ul>
         <li>
             <a href="https://github.com/codeamp">CodeAmp </a> - deploy microservices with any container orchestration framework.
         </li>
     </ul>
 
-    <h2>Past</h2>
+    <h3>Past</h3>
     <ul>
         <li>
         </li>
     </ul>
 
-    <h2>Future</h2>    
+    <h3>Future</h3>    
     <ul>
         <li>
         </li>

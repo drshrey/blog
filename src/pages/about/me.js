@@ -80,7 +80,7 @@ const AboutMePage = () => (
 
         <p>
             When I was about 13, I discovered an old Casio keyboard at a cousin's home in Bangalore, India.
-            I learned my first tune (the main theme to a popular Bollywood movie at the time). 
+            I learned my first tune (the melody to the main theme of a popular Bollywood movie at the time). 
         </p>            
         
         <iframe src="https://open.spotify.com/embed/track/251PNRmJU9KcUnFQAB5t6I" width="300" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>            

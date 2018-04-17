@@ -6,7 +6,7 @@ import './index.css';
 const Header = ({ siteTitle }) => (
   <div
     style={{
-      background: 'darkgreen',
+      background: 'darkblue',
       marginBottom: '1.45rem',
     }}
   >
@@ -33,7 +33,8 @@ const Header = ({ siteTitle }) => (
     <div className="NavbarLinks">
       <span className="NavbarLink" onClick={() => window.location.href='/about/me'}>about.</span>  
       <span className="NavbarLink" onClick={() => window.location.href='/eli5/ml'}>eli5 for ml papers.</span>
-      <span className="NavbarLink" onClick={() => window.location.href='/books/reports'}>book reports.</span>
+      <span className="NavbarLink" onClick={() => window.location.href='/cooking'}>cooking.</span>
+      {/* <span className="NavbarLink" onClick={() => window.location.href='/books/reports'}>book reports.</span> */}
       <span className="NavbarLink" onClick={() => window.location.href='/about/work'}>what i'm working on.</span>    
       <span className="NavbarLink" onClick={() => window.location.href='/about/contact'}>contact.</span>    
     </div>    

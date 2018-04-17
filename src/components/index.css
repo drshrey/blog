@@ -14,5 +14,6 @@
 .NavbarLink:hover {
     color: white;
     cursor: pointer;
+    margin-bottom: 5px;
     border-bottom: 2px solid white;    
 }
